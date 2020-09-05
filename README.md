@@ -1,4 +1,6 @@
 # Facemask-Detection
+Model deployed on Heroku : http://prajvalsudhir-facemask.herokuapp.com/
+
 Covid-19 Facemask Detection model developed using CNN architecture and OpenCV
 
 The dataset consists of 1,376 images belonging to two classes:
